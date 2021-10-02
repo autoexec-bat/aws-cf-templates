@@ -1,3 +1,5 @@
+# Audit and improve permissions assigned during Stack deployment.
+
 # Sophos NSG CloudFormation Templates
 
 This repository tracks the templates used within the Sophos NSG CloudFormation template S3 bucket *s3://sophos-nsg-cf/*
